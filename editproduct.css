@@ -1,0 +1,38 @@
+	.canle{
+			padding: 50px;
+			font-size: 30px;
+			border-collapse: collapse;
+		}
+   	div.header{
+
+	    height: 10%;
+	    clear: both;
+	    background-color: white;
+		padding: 10px;
+    }
+	.main ul{
+		font-size: 30px;
+  		list-style-type: none;
+  		margin: 0 auto;
+  		padding: 0;
+  		overflow: hidden;
+  		background-color: #333;
+	}
+	.main li{
+		float: left;
+		padding: 0px;
+	}
+	.main a:hover{
+		background-color: red;
+		padding: 10px 50px;
+		text-decoration: none;
+		font-size: 20px;
+	}
+	.main a:hover{
+		background-color: red;
+	}
+	.main{
+		margin: 0 auto;
+		height:7px;
+		width: 100%;	
+	}
